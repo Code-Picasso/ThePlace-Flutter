@@ -32,7 +32,7 @@ class LandingScreen extends StatelessWidget {
                     fontWeight: FontWeight.bold,
                     color: Colors.white),
               ),
-              const SizedBox(height: 300),
+              const SizedBox(height: 200),
               OutlinedButton(
                 style: ButtonStyle(
                     side: MaterialStateProperty.all(const BorderSide(
